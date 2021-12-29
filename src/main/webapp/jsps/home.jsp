@@ -5,7 +5,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Raju Technologies- Home Page</title>
-<link href="images/mithunlogo.jpg" rel="icon">
+<link href="images/Raju.jpg" rel="icon">
 </head>
 </head>
 <body>
@@ -48,7 +48,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <hr>
 <hr>
 <p align=center>Raju Technologies - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2019 by <a href="http://mithuntechnologies.com/">Mithun Technologies</a> </small></p>
+<p align=center><small>Copyrights 2019 by <a href="http://Rajutechnologies.com/">Mithun Technologies</a> </small></p>
 
 </body>
 </html>
