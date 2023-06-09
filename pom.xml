@@ -21,10 +21,9 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://43.204.97.57:9000</sonar.host.url>
-                <sonar.login>fc356b4d0497b6835f9cf160f4dbcfa21ca249ce</sonar.login>
-		<!--<sonar.password>admin</sonar.password>  -->
-              
+		<sonar.host.url>http://3.6.41.177:9000</sonar.host.url>
+		<sonar.login>admin</sonar.login>
+		<sonar.password>rajureddy123</sonar.password>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
@@ -99,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Raju Reddy Releases Nexus Repository</name>
-	      <url>http://3.7.69.242:8081/repository/flipkart-release/</url>
+	      <url>http://13.235.49.59:8081/repository/lenovo-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Raju Reddy Snapshot Nexus Repository </name>
-	      <url>http://3.7.69.242:8081/repository/flipkart-snapshot/</url>
+	      <url>http://13.235.49.59:8081/repository/lenovo-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
